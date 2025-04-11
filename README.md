@@ -13,6 +13,7 @@ This repository is a collection of simple Bash scripts designed to automate comm
 ### Scripts
 - **`archClean.sh`**: A utility for Arch Linux users to clean package caches, remove unused packages, and find large or duplicate files.
 - **`bluetooth.sh`**: A script to toggle Bluetooth on/off using `bluetoothctl`.
+- **`lester.sh`**: A script to list subdirectories from a given URL.
 - *<more scripts coming soon ...>*
 
 For more details on each script, check the [scripts/README.md](scripts/README.md).
