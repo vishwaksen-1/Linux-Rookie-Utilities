@@ -51,4 +51,3 @@ Contributions are welcome! If you have suggestions for new scripts or improvemen
 ---
 
 Happy scripting! 🚀
-```
