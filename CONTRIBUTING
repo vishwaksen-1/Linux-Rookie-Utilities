@@ -1,0 +1,96 @@
+# Contributing to Linux-Rookie-Utilities
+
+Thank you for considering contributing to **Linux-Rookie-Utilities**! This project is designed to make life easier for Linux beginners while encouraging them to learn and explore on their own. 
+
+We believe that the best way to learn Linux is by experimenting, solving problems, and discovering solutions. Therefore, **this repository is not meant to spoonfeed solutions but to provide helpful utilities and guidance**.
+
+---
+
+## Purpose of the Repository
+
+The goal of this repository is:
+- To provide basic automation scripts and utilities for Linux beginners.
+- To encourage learning by leaving some tasks and challenges unsolved.
+- To foster curiosity and exploration in the Linux ecosystem.
+
+---
+
+## Guidelines for Contributions
+
+1. **Keep It Beginner-Friendly**:
+   - Write clear and concise code with comments explaining what it does.
+   - Avoid overly complex solutions that might confuse beginners.
+
+2. **Don’t Spoonfeed**:
+   - Avoid solving every possible problem or automating everything.
+   - Leave room for beginners to explore and learn on their own.
+   - For example, instead of automating every configuration, provide a script that sets up the basics and leaves advanced customization to the user.
+
+3. **Document Your Work**:
+   - Update the `README.md` file to explain what your script does and how to use it.
+   - Add comments in your code to help beginners understand it.
+
+4. **Encourage Learning**:
+   - If you add a script, consider including a section in the `README.md` or comments explaining:
+     - Why the script is useful.
+     - How it works.
+     - What the user can do to customize or extend it.
+
+5. **Be Respectful**:
+   - Follow the [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+   - Be kind and patient with beginners who may have questions.
+
+---
+
+## How to Contribute
+
+### 1. Fork the Repository
+- Go to the [GitHub repository](https://github.com/your-username/Linux-Rookie-Utilities) and click the **Fork** button.
+- Clone your forked repository to your local machine:
+  ```bash
+  git clone https://github.com/your-username/Linux-Rookie-Utilities.git
+  cd Linux-Rookie-Utilities
+    ```
+### 2. Create a Branch
+- Create a new branch for your changes:
+```bash
+git checkout -b feature/your-feature-name
+```
+- Make sure to replace `your-feature-name` with a descriptive name for your feature or bug fix.
+
+### 3. Make Your Changes
+- Add your scripts or modify existing ones in the `scripts/` folder.
+Ensure your code is well-documented and follows the project's style.
+
+### 4. Test Your Changes
+- Test your scripts to ensure they work as expected.
+If applicable, add comments or usage instructions in the `README.md`.
+
+### 5. Commit and Push
+- Stage and commit your changes:
+```bash
+git add .
+git commit -m "Add your commit message here"
+```
+
+- Push your branch to your forked repository:
+```bash
+git push origin feature/your-feature-name
+```
+### 6. Submit a Pull Request
+- Go to the original repository and click New Pull **Request**.
+- Select your branch and submit the pull request with a clear description of your changes.
+---
+## Reporting Issues
+If you encounter a bug or have a feature request, please open an issue in the [GitHub Issues](https://github.com/vishwaksen-1/Linux-Rookie-Utilities/issues) section. Provide as much detail as possible, including:
+
+- Steps to reproduce the issue.
+- Expected and actual behavior.
+- Any relevant logs or screenshots.
+---
+### Need Help?
+
+If you have any questions or need help contributing, feel free to open an issue or reach out to the maintainers.
+
+---
+Thank you for contributing to **Linux-Rookie-Utilities**! 🚀
